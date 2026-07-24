@@ -71,6 +71,8 @@ This means the business is looking forward to getting insights on sales overview
 <img src="./readme_images/northwind-oltp-erd.png">
 From the above ERD diagram of the OLTP transactional system, we identify the following required tables that will enable us to meet the business requirements:
 
+## **Data where house Layer** 
+
 <br>
 <li>Customers - Customers who buy items from Northwind</li>
 <li>Employees - Those who work for Northwind</li>
