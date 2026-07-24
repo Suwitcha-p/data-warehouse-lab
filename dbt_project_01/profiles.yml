@@ -1,0 +1,6 @@
+dbt_project_01:
+  outputs:
+    dev:
+      type: duckdb
+      path: dev.duckdb
+  target: dev
